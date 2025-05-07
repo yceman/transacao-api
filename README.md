@@ -1,2 +1,3 @@
 # transacao-api
-Transational Api for Itau Bank 
+Transational Api for Itau Bank
+Desafio banco Itau. 
